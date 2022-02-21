@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\D7\\Models"
+		},
+		{
+			"path": "..\\D7\\Services"
+		}
+	],
+	"settings": {}
+}
